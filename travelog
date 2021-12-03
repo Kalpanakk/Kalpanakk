@@ -1,0 +1,10 @@
+
+query {
+  allLocations {
+    createdAt
+    id
+    lat
+    lon
+    name
+  }
+}
